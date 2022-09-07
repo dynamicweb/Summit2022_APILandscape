@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TkMH/3IufF36REkj7aHTG/R73yUuUaS/EHfnFRTL7mU=",
+  "Source": "GrpcPipeline",
+  "BasePath": "_content/GrpcPipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

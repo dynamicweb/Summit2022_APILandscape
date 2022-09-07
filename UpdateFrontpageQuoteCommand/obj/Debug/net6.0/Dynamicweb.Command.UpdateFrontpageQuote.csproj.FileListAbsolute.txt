@@ -1,0 +1,15 @@
+C:\Users\frn\Documents\Summit2022\CustomProject\bin\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.deps.json
+C:\Users\frn\Documents\Summit2022\CustomProject\bin\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.dll
+C:\Users\frn\Documents\Summit2022\CustomProject\bin\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.pdb
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.csproj.AssemblyReference.cache
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.AssemblyInfoInputs.cache
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.AssemblyInfo.cs
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.csproj.CoreCompileInputs.cache
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\scopedcss\bundle\Dynamicweb.Command.UpdateFrontpageQuote.styles.css
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.dll
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\refint\Dynamicweb.Command.UpdateFrontpageQuote.dll
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\Dynamicweb.Command.UpdateFrontpageQuote.pdb
+C:\Users\frn\Documents\Summit2022\CustomProject\obj\Debug\net6.0\ref\Dynamicweb.Command.UpdateFrontpageQuote.dll
